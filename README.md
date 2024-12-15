@@ -81,16 +81,14 @@ Include screenshots of:
 - Data visualizations (pie chart, Bar chart, histogram)
 - Streamlit app interface (input form, prediction result)
   
-```markdown
 ### Data Visualization Example
-![Pie Chart](![image](https://github.com/user-attachments/assets/3783d1d0-bf8a-4e8f-b0ce-86304fbeaa01))
-![Bar Chart](![image](https://github.com/user-attachments/assets/6bd0c243-1d3e-4d58-9692-fae05c86796f))
-![Histogram](![image](https://github.com/user-attachments/assets/9ecd46ce-ebcd-4603-8f99-06f08fce3751))
-![Histogram](![image](https://github.com/user-attachments/assets/bfda5628-ba8d-4c29-a5fb-795e57484221))
+![Pie Chart](https://github.com/user-attachments/assets/3783d1d0-bf8a-4e8f-b0ce-86304fbeaa01)
+![Bar Chart](https://github.com/user-attachments/assets/6bd0c243-1d3e-4d58-9692-fae05c86796f)
+![Histogram 1](https://github.com/user-attachments/assets/9ecd46ce-ebcd-4603-8f99-06f08fce3751)
+![Histogram 2](https://github.com/user-attachments/assets/bfda5628-ba8d-4c29-a5fb-795e57484221)
 
 ### App Interface
-![Streamlit App](![image](https://github.com/user-attachments/assets/316459d6-f250-4144-af3f-f8c0c9497baa))
-```
+![Streamlit App](https://github.com/user-attachments/assets/316459d6-f250-4144-af3f-f8c0c9497baa)
 
 ## Key Takeaways
 - Logistic Regression performed the best with **91.5% accuracy**.
