@@ -44,8 +44,8 @@ Customer churn prediction is a vital tool for businesses to identify customers l
 ### 6. Streamlit App Creation
 - Built an interactive app for churn predictions.
 
-### 7. Deployment
-- Deployed the app locally, enabling real-time predictions.
+### 7. Demostration
+- Demostration the app locally.
 
 ## How to Run the Project
 1. Clone the repository:
